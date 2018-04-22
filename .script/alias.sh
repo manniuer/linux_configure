@@ -18,4 +18,14 @@ alias aptc='sudo apt-get clean'
 alias aptr='sudo apt-get autoremove'
 alias aptu='sudo apt-get update'
 alias aptug='sudo apt-get upgrade'
-#
+
+
+# for git
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -m '
+alias gch='git checkout'
+alias gb='git branch'
+alias gps='git push'
+alias gpl='git pull'
+alias gr='git reset'
