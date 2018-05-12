@@ -29,3 +29,16 @@ alias gb='git branch'
 alias gps='git push'
 alias gpl='git pull'
 alias gr='git reset'
+
+
+# for quickly cd
+alias to.work='cd ~/Works'
+alias to.lc='cd ~/Works/linux_configure'
+alias to.dw='cd ~/Downloads'
+alias to.sf='cd ~/Software'
+alias to.log='cd ~/Log'
+
+
+# for quickly source
+alias scenv='source ~/venv/common/bin/activate'
+alias ssenv='source ~/venv/scrapy/bin/activate'
